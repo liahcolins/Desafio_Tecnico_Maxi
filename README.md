@@ -4,7 +4,7 @@ Este projeto é um sistema de controle de gastos residenciais completo, com cada
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 ### Back-end
 - **Linguagem**: C# (.NET 8.0)
@@ -21,7 +21,7 @@ Este projeto é um sistema de controle de gastos residenciais completo, com cada
 
 ---
 
-## 📋 Regras de Negócio Implementadas
+## Regras de Negócio Implementadas
 
 1. **Cadastro de Pessoas (Moradores)**:
    - Criação, listagem e exclusão de pessoas.
@@ -36,7 +36,7 @@ Este projeto é um sistema de controle de gastos residenciais completo, com cada
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 Para executar ambos os projetos, certifique-se de possuir o Node.js e o SDK do .NET 8.0 instalados.
 
@@ -85,7 +85,7 @@ A aplicação React estará acessível em: `http://localhost:5173`
 
 ---
 
-## 📝 Comentários e Lógica do Código
+## Comentários e Lógica do Código
 
 Toda a lógica e tomadas de decisões técnicas de banco de dados e regras de negócios estão amplamente documentadas diretamente nos arquivos de código fonte. 
 
